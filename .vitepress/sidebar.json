@@ -1,0 +1,156 @@
+[
+  {
+    "text": "Android",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "activity生命周期深度解析",
+        "link": "/posts/android-activity生命周期深度解析"
+      },
+      {
+        "text": "anr问题分析与解决",
+        "link": "/posts/android-anr问题分析与解决"
+      },
+      {
+        "text": "ble低功耗蓝牙开发实战",
+        "link": "/posts/android-ble低功耗蓝牙开发实战"
+      },
+      {
+        "text": "camerax相机开发实战",
+        "link": "/posts/android-camerax相机开发实战"
+      },
+      {
+        "text": "content provider深度解析",
+        "link": "/posts/android-content-provider深度解析"
+      },
+      {
+        "text": "contentprovider内容提供者实战",
+        "link": "/posts/android-contentprovider内容提供者实战"
+      },
+      {
+        "text": "data binding数据绑定库深度解析",
+        "link": "/posts/android-data-binding数据绑定库深度解析"
+      },
+      {
+        "text": "datastore学习 sharedpreferences替代方案",
+        "link": "/posts/android-datastore学习-sharedpreferences替代方案"
+      },
+      {
+        "text": "downloadmanager下载管理实战",
+        "link": "/posts/android-downloadmanager下载管理实战"
+      },
+      {
+        "text": "encryptedsharedpreferences加密存储",
+        "link": "/posts/android-encryptedsharedpreferences加密存储"
+      }
+    ]
+  },
+  {
+    "text": "Kotlin",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "2 0 20新特性深度解析",
+        "link": "/posts/kotlin-2-0-20新特性深度解析"
+      },
+      {
+        "text": "collection操作符实战 map filter fold",
+        "link": "/posts/kotlin-collection操作符实战-map-filter-fold"
+      },
+      {
+        "text": "companion object伴生对象详解",
+        "link": "/posts/kotlin-companion-object伴生对象详解"
+      },
+      {
+        "text": "coroutines channel通道学习",
+        "link": "/posts/kotlin-coroutines-channel通道学习"
+      },
+      {
+        "text": "coroutines select表达式学习",
+        "link": "/posts/kotlin-coroutines-select表达式学习"
+      },
+      {
+        "text": "flow异步数据流学习",
+        "link": "/posts/kotlin-flow异步数据流学习"
+      },
+      {
+        "text": "flow异步流深度解析",
+        "link": "/posts/kotlin-flow异步流深度解析"
+      },
+      {
+        "text": "flow操作符实战 map filter transform",
+        "link": "/posts/kotlin-flow操作符实战-map-filter-transform"
+      },
+      {
+        "text": "flow进阶 stateflow与sharedflow",
+        "link": "/posts/kotlin-flow进阶-stateflow与sharedflow"
+      },
+      {
+        "text": "infix中缀函数与操作符重载",
+        "link": "/posts/kotlin-infix中缀函数与操作符重载"
+      }
+    ]
+  },
+  {
+    "text": "Jetpack Compose",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "material design组件学习",
+        "link": "/posts/jetpack-compose-material-design组件学习"
+      },
+      {
+        "text": "入门学习",
+        "link": "/posts/jetpack-compose入门学习"
+      },
+      {
+        "text": "动画学习 自定义动画",
+        "link": "/posts/jetpack-compose动画学习-自定义动画"
+      }
+    ]
+  },
+  {
+    "text": "Lua",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "在android中的深度应用",
+        "link": "/posts/lua在android中的深度应用"
+      },
+      {
+        "text": "脚本在android上的应用学习",
+        "link": "/posts/lua脚本在android上的应用学习"
+      }
+    ]
+  },
+  {
+    "text": "Xposed",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "模块开发入门",
+        "link": "/posts/xposed模块开发入门"
+      }
+    ]
+  },
+  {
+    "text": "OpenClaw",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "小龙虾文档学习笔记",
+        "link": "/posts/openclaw小龙虾文档学习笔记"
+      }
+    ]
+  },
+  {
+    "text": "Java",
+    "collapsed": false,
+    "items": [
+      {
+        "text": "android性能优化学习笔记",
+        "link": "/posts/java-android性能优化学习笔记"
+      }
+    ]
+  }
+]

@@ -1,29 +1,34 @@
 ---
-title: Hello World - 我的新博客
-date: 2026-04-04
-tags:
-  - 随笔
-description: 博客正式上线，记录学习点滴
+title: Hello World
 ---
 
-# Hello World
+Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Quick Start
+Create a new post
 
-欢迎来到我的博客！
+``` bash
+$ hexo new "My New Post"
+```
 
-这是一个使用 **VitePress** 构建的现代化博客。
+More info: [Writing](https://hexo.io/docs/writing.html)
+Run server
 
-## 技术特点
+``` bash
+$ hexo server
+```
 
-- 🚀 Vite + Vue 3 构建
-- 🎨 TailwindCSS 样式
-- 📝 Markdown 支持
-- 🌙 深色模式
+More info: [Server](https://hexo.io/docs/server.html)
+Generate static files
 
-## 计划内容
+``` bash
+$ hexo generate
+```
 
-1. Android 开发笔记
-2. Kotlin 编程技巧
-3. LSPosed 模块开发
-4. Jetpack Compose 实战
+More info: [Generating](https://hexo.io/docs/generating.html)
+Deploy to remote sites
 
-敬请期待！ 🎉
+``` bash
+$ hexo deploy
+```
+
+More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)

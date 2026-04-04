@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,ag as r}from"./chunks/framework.BP-uki7G.js";const _=JSON.parse('{"title":"关于我","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),i={name:"about.md"};function l(n,a,s,d,h,c){return t(),o("div",null,[...a[0]||(a[0]=[r("",8)])])}const m=e(i,[["render",l]]);export{_ as __pageData,m as default};

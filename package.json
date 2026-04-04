@@ -1,0 +1,17 @@
+{
+  "name": "wenyi-blog",
+  "version": "1.0.0",
+  "description": "Wenyi's Blog - 学习笔记与技术分享",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "tailwindcss": "^4.2.2",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.32"
+  }
+}

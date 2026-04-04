@@ -1,0 +1,23 @@
+---
+layout: home
+
+hero:
+  name: "Wenyi's Blog"
+  text: "学习笔记与技术分享"
+  tagline: Android开发 | Kotlin | LSPosed | Jetpack Compose
+  actions:
+    - theme: brand
+      text: 查看文章
+      link: /posts
+    - theme: alt
+      text: 关于我
+      link: /about
+
+features:
+  - title: Android 开发
+    details: 深入学习 Android 开发技术，包括 Jetpack 组件、Compose UI 等
+  - title: LSPosed 模块
+    details: 探索 Xposed/LSPosed 模块开发，实现系统级功能定制
+  - title: Kotlin 编程
+    details: 掌握现代 Kotlin 编程技巧，提升开发效率
+---
